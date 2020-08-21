@@ -1,6 +1,5 @@
 #########################################
 # Programmer: Mrs.G , Mishelle
-# Date: 21/11/2015
 # File Name: tetris_classes.py
 #########################################
 import pygame
